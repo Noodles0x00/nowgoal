@@ -1,0 +1,11 @@
+openpyxl
+AutoUpdate
+pandas
+requests
+requests_html
+selenium
+selenium_stealth
+selenium_wire
+webdriver_manager
+wget
+beautifulsoup4
